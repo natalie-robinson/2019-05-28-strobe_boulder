@@ -45,7 +45,7 @@ lc_site: "https://librarycarpentry.org/"
 # template_repo: "https://github.com/carpentries/styles"
 # training_site: "https://carpentries.github.io/instructor-training"
 # workshop_repo: "https://github.com/natalie-robinson/2019-05-28-strobe_boulder"
-workshop_site: "https://carpentries.github.io/2019-05-28-strobe_boulder"
+workshop_site: "https://natalie-robinson.github.io/2019-05-28-strobe_boulder/"
 
 # Surveys.
 swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=2019-05-28-strobe_boulder
