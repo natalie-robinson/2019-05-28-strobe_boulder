@@ -31,30 +31,30 @@ repository: <USERNAME>/<PROJECT>
 email: "team@carpentries.org"
 
 # Sites.
-# amy_site: "https://amy.software-carpentry.org/workshops"
-# carpentries_github: "https://github.com/carpentries"
-# carpentries_pages: "https://carpentries.github.io"
+amy_site: "https://amy.software-carpentry.org/workshops"
+carpentries_github: "https://github.com/carpentries"
+carpentries_pages: "https://carpentries.github.io"
 carpentries_site: "https://carpentries.org/"
 dc_site: "https://datacarpentry.org"
-# example_repo: "https://github.com/carpentries/lesson-example"
-# example_site: "https://carpentries.github.io/lesson-example"
+example_repo: "https://github.com/carpentries/lesson-example"
+example_site: "https://carpentries.github.io/lesson-example"
 lc_site: "https://librarycarpentry.org/"
-# swc_github: "https://github.com/swcarpentry"
-# swc_pages: "https://swcarpentry.github.io"
-# swc_site: "https://software-carpentry.org"
-# template_repo: "https://github.com/carpentries/styles"
-# training_site: "https://carpentries.github.io/instructor-training"
-# workshop_repo: "https://github.com/natalie-robinson/2019-05-28-strobe_boulder"
+swc_github: "https://github.com/swcarpentry"
+swc_pages: "https://swcarpentry.github.io"
+swc_site: "https://software-carpentry.org"
+template_repo: "https://github.com/carpentries/styles"
+training_site: "https://carpentries.github.io/instructor-training"
+workshop_repo: "https://github.com/natalie-robinson/2019-05-28-strobe_boulder"
 workshop_site: "https://natalie-robinson.github.io/2019-05-28-strobe_boulder/"
 
 # Surveys.
 swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=2019-05-28-strobe_boulder
 swc_post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2019-05-28-strobe_boulder"
-# training_post_survey: "https://www.surveymonkey.com/r/post-instructor-training"
-# dc_pre_survey: "https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id="
-# dc_post_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id="
-# lc_pre_survey: "https://www.surveymonkey.com/r/lcpreworkshopsurvey?workshop_id="
-# lc_post_survey: "https://www.surveymonkey.com/r/lcpostworkshopsurvey?workshop_id="
+training_post_survey: "https://www.surveymonkey.com/r/post-instructor-training"
+dc_pre_survey: "https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id="
+dc_post_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id="
+lc_pre_survey: "https://www.surveymonkey.com/r/lcpreworkshopsurvey?workshop_id="
+lc_post_survey: "https://www.surveymonkey.com/r/lcpostworkshopsurvey?workshop_id="
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
 start_time: 0
